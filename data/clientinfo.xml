@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+
+<clientinfo>
+	
+	<servicetype>thai</servicetype>
+	<servertype>primary</servertype>
+	<passwordencrypt></passwordencrypt>
+	<hideaccountlist></hideaccountlist>
+	<extendedslot></extendedslot>
+	
+	<desc>Ragnarok New Era - Stage Server</desc>
+	
+	<connection>
+		<display>Ragnarok New Era</display>
+		<desc>Dev</desc>
+		<domain>thro-zone-1c.gnjoy.in.th:50001</domain>
+		<port>50001</port>
+		<version>24</version>
+		<langtype>5</langtype>
+		<registrationweb>http://roc.gnjoy.in.th</registrationweb>
+	</connection>
+</clientinfo>
