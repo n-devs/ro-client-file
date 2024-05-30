@@ -1,14 +1,24 @@
-[
-    {
-        "display": "Localhost Server",
-        "desc": "roBrowser's demo server",
-        "address": "127.0.0.1",
-        "port": 6900,
-        "version": 55,
-        "langtype": 5,
-        "packetver": 20180704,
-        "forceUseAddress": false,
-        "socketProxy": "ws://127.0.0.1:5999",
-        "packetKeys": false
-    }
-]
+{
+    "remoteClient": "https://raw.githubusercontent.com/n-devs/ro-client-file/main/",
+    "width": "100%",
+    "height": "100%",
+    "servers": [
+        {
+            "display": "Localhost Server",
+            "desc": "roBrowser's demo server",
+            "address": "127.0.0.1",
+            "port": 6900,
+            "version": 55,
+            "langtype": 5,
+            "packetver": 20180704,
+            "forceUseAddress": false,
+            "socketProxy": "ws://127.0.0.1:5999",
+            "packetKeys": false
+        }
+    ],
+    "socketProxy": "ws://127.0.0.1:5999",
+    "development": false,
+    "packetver": 20180704,
+    "skipIntro": false,
+    "saveFiles": false
+}
