@@ -15,18 +15,6 @@
             "forceUseAddress": false,
             "socketProxy": "ws://127.0.0.1:5999",
             "packetKeys": false
-        },
-        {
-            "display": "Localhost Server 2",
-            "desc": "roBrowser 2's demo server",
-            "address": "127.0.0.1",
-            "port": 6900,
-            "version": 55,
-            "langtype": 5,
-            "packetver": 20180704,
-            "forceUseAddress": false,
-            "socketProxy": "wss://connect.robrowser.com/",
-            "packetKeys": false
         }
     ],
     "development": false,
