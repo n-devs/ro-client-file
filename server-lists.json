@@ -21,12 +21,12 @@
             "desc": "roBrowser's demo server",
             "address": "127.0.0.1",
             "port": 6900,
-            "version": 55,
-            "langtype": 5,
+            "version": 25,
+            "langtype": 12,
             "packetver": 20141022,
-            "forceUseAddress": false,
             "socketProxy": "wss://connect.robrowser.com/",
-            "packetKeys": false
+            "packetKeys": true,
+            "adminList":[2000000]
         }
     ],
     "development": false,
