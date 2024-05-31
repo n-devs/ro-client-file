@@ -5,7 +5,7 @@
     "socketProxy": "wss://connect.robrowser.com/",
     "servers": [
         {
-            "display": "Localhost Server",
+            "display": "Localhost Server Test",
             "desc": "roBrowser's demo server",
             "address": "127.0.0.1",
             "port": 6900,
@@ -13,7 +13,7 @@
             "langtype": 5,
             "packetver": 20180704,
             "forceUseAddress": false,
-            "socketProxy": "ws://127.0.0.1:5999",
+            "socketProxy": "wss://connect.robrowser.com/",
             "packetKeys": false
         }
     ],
