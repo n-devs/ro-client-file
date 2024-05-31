@@ -5,7 +5,7 @@
     "socketProxy": "wss://connect.robrowser.com/",
     "servers": [
         {
-            "display": "Localhost Server Test",
+            "display": "Localhost Server",
             "desc": "roBrowser's demo server",
             "address": "127.0.0.1",
             "port": 6900,
@@ -13,12 +13,24 @@
             "langtype": 5,
             "packetver": 20180704,
             "forceUseAddress": false,
+            "socketProxy": "ws://127.0.0.1:5999",
+            "packetKeys": false
+        },
+        {
+            "display": "Localhost Server Test",
+            "desc": "roBrowser's demo server",
+            "address": "127.0.0.1",
+            "port": 6900,
+            "version": 55,
+            "langtype": 5,
+            "packetver": 20141022,
+            "forceUseAddress": false,
             "socketProxy": "wss://connect.robrowser.com/",
             "packetKeys": false
         }
     ],
     "development": false,
-    "packetver": 20180704,
+    "packetver": 20141022,
     "skipIntro": true,
     "saveFiles": false
 }
