@@ -7,7 +7,7 @@
         {
             "display": "Localhost Server",
             "desc": "roBrowser's demo server",
-            "address": "172.18.0.6",
+            "address": "172.18.0.1",
             "port": 6900,
             "version": 55,
             "langtype": 5,
@@ -15,32 +15,6 @@
             "forceUseAddress": false,
             "socketProxy": "ws://127.0.0.1:5999",
             "packetKeys": false
-        },
-        {
-            "display": "Localhost Server Test2",
-            "desc": "roBrowser's demo server",
-            "address": "172.18.0.6",
-            "port": 6900,
-            "version": 25,
-            "langtype": 12,
-            "packetver": 20141022,
-            "socketProxy": "ws://127.0.0.1:5999",
-            "packetKeys": true,
-            "adminList":[2000000]
-        }
-
-        ,
-        {
-            "display": "Localhost Server Test 3",
-            "desc": "roBrowser's demo server",
-            "address": "172.18.0.6",
-            "port": 6900,
-            "version": 25,
-            "langtype": 12,
-            "packetver": 20141022,
-            "socketProxy": "ws://127.0.0.1:5999",
-            "packetKeys": true,
-            "adminList":[2000000]
         }
     ],
     "development": false,
