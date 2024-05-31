@@ -17,7 +17,7 @@
             "packetKeys": false
         },
         {
-            "display": "Localhost Server Test",
+            "display": "Localhost Server Test2",
             "desc": "roBrowser's demo server",
             "address": "127.0.0.1",
             "port": 6900,
