@@ -12,13 +12,13 @@
             "version": 55,
             "langtype": 5,
             "packetver": 20180704,
-            "forceUseAddress": false,
+            "forceUseAddress": true,
             "socketProxy": "ws://127.0.0.1:5999",
-            "packetKeys": false
+            "packetKeys": true
         }
     ],
     "development": false,
     "packetver": 20141022,
     "skipIntro": true,
-    "saveFiles": false
+    "saveFiles": true
 }
