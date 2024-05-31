@@ -24,7 +24,7 @@
             "version": 25,
             "langtype": 12,
             "packetver": 20141022,
-            "socketProxy": "wss://connect.robrowser.com/",
+            "socketProxy": "ws://127.0.0.1:5999",
             "packetKeys": true,
             "adminList":[2000000]
         }
